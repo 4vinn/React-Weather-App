@@ -1,6 +1,6 @@
 ### A weather app made using React and Openweather API
 
-**Deployed on Netlify :** [Here](https://4vinn-weather.netlify.com/)
+**Deployed on Netlify :** https://4vinn-weather.netlify.com/
 
 > Repo structure:
 
