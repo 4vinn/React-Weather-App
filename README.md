@@ -1,5 +1,14 @@
 ## CloudCast <img src="https://img.shields.io/badge/ReactJs-white?logo=React&logoColor=blue" /> <img src="https://img.shields.io/badge/Axios-white?logo=axios&logoColor=purple" />  
-A weather app made using React and Openweather API 
+
+<details>
+<summary>A weather app made using React and Openweather API </summary>
+
+- API setup with Open Weather
+- API integration with Axios
+- State Management using React Hooks
+- Conditional Rendering of Components
+</details>
+
 <details>
 <summary>Repo Structure</summary>
 
