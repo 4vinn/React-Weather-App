@@ -6,28 +6,15 @@ body {
   align-items: center;
   height: 100vh;
   background: linear-gradient(rgb(241, 233, 224), white);
-<<<<<<< HEAD
 
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-=======
-  
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
->>>>>>> 4a5bac36288f119ca51d3774e5727fe0e60164ab
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-<<<<<<< HEAD
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-=======
-
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
->>>>>>> 4a5bac36288f119ca51d3774e5727fe0e60164ab
     monospace;
 }
