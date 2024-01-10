@@ -37,7 +37,7 @@
 
 ### Deployed on
 
-- Netlify : https://4vinn-weather.netlify.com/
+<!-- - Netlify : https://4vinn-weather.netlify.com/ -->
 - GitHub Pages : https://4vinn.github.io/React-Weather-App/
 
 ### APIs used
@@ -56,4 +56,5 @@
 ### How to run:
 
 - Clone repo
-- Install node modules - `npm start`
+- Install node modules
+- `npm start`
