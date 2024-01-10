@@ -37,7 +37,7 @@
 
 ### Deployed on
 
-<!-- - Netlify : https://4vinn-weather.netlify.com/ -->
+- Netlify : https://4vinn-weather.netlify.com/
 - GitHub Pages : https://4vinn.github.io/React-Weather-App/
 
 ### APIs used
