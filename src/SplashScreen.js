@@ -133,7 +133,7 @@ function Splash(props) {
       </Container>
       <Footer>
         Coded by:
-        <a href="https://4vinn.netlify.app/" target="_blank">
+        <a href="https://4vinnn.netlify.app/" target="_blank">
           {" "}
           4vinn{" "}
         </a>
