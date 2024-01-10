@@ -6,6 +6,7 @@
 - API integration with Axios
 - State Management using React Hooks
 - Conditional Rendering of Components
+- CICD on GitHub pages and Netlify
 
 </details>
 
@@ -35,10 +36,16 @@
 
 </details>
 
-### Deployed on (CI/CD) 
+### Deployed on 
 
-- Netlify : https://4vinn-weather.netlify.com/
 - GitHub Pages : https://4vinn.github.io/React-Weather-App/
+- Netlify : https://4vinn-weather.netlify.com/
+  
+> `npm run deploy` will automatically start generating a `build` folder and push it to `gh-pages` branch of this repo.
+> 
+> `gh-pages` branch is used for both Netlify and GitHub page
+> 
+> So any change in build folder will reflect in both GitHub pages and Netlify: **CICD**
 
 ### APIs used
 
